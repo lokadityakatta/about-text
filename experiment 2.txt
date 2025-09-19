@@ -1,7 +1,0 @@
-NAME:KATTA LOKADITYA SHANKAR KUMAR
-COURSE:B.sc Computer science
-LEARNED FROM GIT HUB:I have learned how to create the repository and how upload file to github.
-2.I have learned the how to colloborate with the team members.
-3.I have learned the how to raise the issue in github.
-
-
